@@ -2,7 +2,7 @@
 # **Rust Exercises**
 
 <p align="center">
-    <img src="https://github.com/gabsalvo/Rust/assets/72619479/dcebf70b-3d28-45c3-bd13-5d9a1db9c87c" width="200">
+    <img src="https://github.com/gabsalvo/Rust/assets/72619479/ba71ac8b-dda1-403c-afac-73db9b230bf6" width="200">
 </p>
 
 ---
